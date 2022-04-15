@@ -1,0 +1,23 @@
+.service {
+    border: 1px solid lightgray;
+    border-radius: 10px;
+    padding-bottom: 20px;
+    text-align: center;
+}
+
+.service img {
+    width: 100%;
+    /* margin: 1px; */
+    border-radius: 10px;
+}
+
+.btn-service {
+    background-color: #b2d0fc;
+    ;
+    border: none;
+    border-radius: 5px;
+}
+.btn-service:hover{
+    background-color:#0d6efd;;
+    color: white;
+}
